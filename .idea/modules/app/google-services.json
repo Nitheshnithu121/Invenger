@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "366235911028",
+    "firebase_url": "https://invenger-de8c6.firebaseio.com",
+    "project_id": "invenger-de8c6",
+    "storage_bucket": "invenger-de8c6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:366235911028:android:05f56f7e22afb05dd5e221",
+        "android_client_info": {
+          "package_name": "com.example.invenger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "366235911028-ncpas8jffgg8b45huo11hbi20hi0rsbe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.invenger",
+            "certificate_hash": "95467e10dff09145787675aad53410de44202dea"
+          }
+        },
+        {
+          "client_id": "366235911028-81p0eaeqv54653nponfojauu79dagdem.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFkUe2LouGIw8HkOvctRDABFfDDNXPFKo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "366235911028-81p0eaeqv54653nponfojauu79dagdem.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
